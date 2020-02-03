@@ -1,0 +1,9 @@
+ContestAppletProd*.jnlp
+Greed*.jar
+
+/workspaces/*
+
+!afterFileGen.sh
+!/workspaces/afterFileGen.sh
+!/workspaces/greed.conf
+!/workspaces/template.cpp
