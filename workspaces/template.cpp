@@ -20,6 +20,8 @@
 #include <cassert>
 #include <functional>
 
+#include <fstream>
+
 typedef long long ll;
 using namespace std;
 
